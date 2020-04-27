@@ -1,10 +1,19 @@
 # admin
 
-look admin website
+# Technology not has own brain
 
-How to start a script?
+# Freedom 
+
+# Look admin website
+
+# How to start a script?
+
+# $ sudo chmod +x admin
+
+# $ sudo ./admin
+
+<a href="errorman.org">Hack Hacker Hacking</a>
 
 
-$ sudo chmod +x admin
 
-$ sudo ./admin
+
