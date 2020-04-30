@@ -12,7 +12,7 @@
 
 # $ sudo ./admin
 
-<a href="errorman.org">Hack Hacker Hacking</a>
+<a href="https://sites.google.com/view/hackhackerhacking/home">Hack Hacker Hacking</a>
 
 
 
